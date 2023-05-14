@@ -1,1 +1,1 @@
-# api-with-groovy-tests
+Использование моделей и groovy в тестах
